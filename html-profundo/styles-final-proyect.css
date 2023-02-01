@@ -1,0 +1,71 @@
+
+.nav_bar{
+background: linear-gradient(95deg,black, rgb(9, 87, 160));
+}
+
+.logo-tittle{
+    width: 30%;
+    padding: 20px;
+    margin-left: 500px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(39, 38, 38);
+    border-radius: 15px;
+    width: 30%;
+    height: 30px;
+    margin-left: 530px;
+
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    padding: 3px;
+    margin-right: 15px;
+}
+
+.link:hover{
+    color: orangered;
+}
+
+.logo-banner{
+    margin-top: 15px;
+    margin-left: 500px;
+    width: 35%;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.anuncio{
+    width: 45%;
+    margin-top: 15px;
+    margin-left: 435px;
+    text-align: center;
+    color: black;
+}
+
+.body_cards{
+    display: flex;
+    display:flex;
+    width: 15%;
+}
+
+.reserver-word{
+    margin-top: 10px;
+
+}
+
+ .logo-footer{
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 6%;
+ }
+
+ .container-footer{
+    display: flex;
+    justify-content: space-between;
+
+ }
